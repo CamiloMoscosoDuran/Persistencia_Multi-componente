@@ -1,4 +1,4 @@
-Ñ# Práctica Calificada: Persistencia y Comunicación Multi-componente
+# Práctica Calificada: Persistencia y Comunicación Multi-componente
 ## Kubernetes Cloud + Seguridad Profesional (S11 / AP8)
 
 Este repositorio contiene la arquitectura completa, el código fuente y los manifiestos de Kubernetes para desplegar una aplicación multi-componente resiliente, segura y altamente disponible.
